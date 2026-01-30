@@ -1,7 +1,7 @@
 # Data Structure Snake Game
 
 
-<img src="snakeGame.gif" width = 100%>
+<img src="media/snakeGame.gif" width = 100%>
 
 ---
 
