@@ -2,7 +2,7 @@
 
 A terminal-based Snake game implemented in C++ that demonstrates core data structure concepts such as linked lists, queues, and grid-based state management. The project focuses on clean logic, efficient movement handling, and real-time user input while preserving classic Snake gameplay mechanics.
 
-<img src="meida/demo.gif" width = 100%>
+<img src="meida/snakeGame.gif" width = 100%>
 
 ---
 
